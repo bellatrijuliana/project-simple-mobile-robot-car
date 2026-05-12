@@ -14,7 +14,7 @@ const int buzPin = D5;
 const int ledPin = D8;     
 const int wifiLedPin = D0; 
 
-char auth[] = "hw3f_IdJunK96ig8WgJrXXQ7bqWZZMCG"; 
+char auth[] = "YOUR_BLYNK_AUTH_TOKEN"; 
 
 String command;         
 int SPEED = 1023;        
